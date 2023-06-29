@@ -1,0 +1,15 @@
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\bin\Debug\net6.0\Alura Criando Primeira Aplicação.exe
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\bin\Debug\net6.0\Alura Criando Primeira Aplicação.deps.json
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\bin\Debug\net6.0\Alura Criando Primeira Aplicação.runtimeconfig.json
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\bin\Debug\net6.0\Alura Criando Primeira Aplicação.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\bin\Debug\net6.0\Alura Criando Primeira Aplicação.pdb
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.csproj.AssemblyReference.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.AssemblyInfoInputs.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.AssemblyInfo.cs
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.csproj.CoreCompileInputs.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\refint\Alura Criando Primeira Aplicação.dll
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.pdb
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\Alura Criando Primeira Aplicação.genruntimeconfig.cache
+C:\Users\carlos.hackbart\Documents\Estudos\Alura Criando Primeira Aplicação\Alura Criando Primeira Aplicação\obj\Debug\net6.0\ref\Alura Criando Primeira Aplicação.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Alura Criando Primeira Aplicação/1.0.0": {
+        "runtime": {
+          "Alura Criando Primeira Aplicação.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alura Criando Primeira Aplicação/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
